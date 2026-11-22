@@ -31,7 +31,7 @@ rust      2
 fast      1
 python    1
 popular   1
-reliable  1
+reliable  2
 ```
 
 Run
